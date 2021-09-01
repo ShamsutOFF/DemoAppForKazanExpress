@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Demo App For KazanExpress</string>
+    <string name="history">History</string>
+    <string name="my_wallets">My Wallets</string>
 </resources>
